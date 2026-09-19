@@ -8,7 +8,7 @@ An interactive **Power BI Sales Analytics Dashboard** built to analyze sales per
 
 This project analyzes Super Store sales data from **January 2019 to December 2020** to identify sales and profitability trends and provide actionable business insights through interactive Power BI dashboards.
 
-The dashboard helps understand:
+The dashboard helps you understand:
 
 * Overall sales and profit performance
 * Monthly sales and profit trends
